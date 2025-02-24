@@ -1,0 +1,7 @@
+﻿  Form1.cpp
+  Form2.cpp
+  Form3.cpp
+  StartForm1.cpp
+  Generating Code...
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SLP.vcxproj -> D:\Projects Visual Studio C++\Copy_TestProject1\x64\Debug\SLP.exe
