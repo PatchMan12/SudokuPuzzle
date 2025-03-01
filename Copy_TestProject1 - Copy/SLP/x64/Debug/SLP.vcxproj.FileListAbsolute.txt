@@ -1,0 +1,15 @@
+D:\Projects Visual Studio C++\SLP\SLP\x64\Debug\SLP.vcxproj.AssemblyReference.cache
+D:\Projects Visual Studio C++\SLP\SLP\x64\Debug\SLP.Form1.resources
+D:\Projects Visual Studio C++\SLP\SLP\x64\Debug\SLP.vcxproj.GenerateResource.cache
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.vcxproj.AssemblyReference.cache
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.Form1.resources
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.vcxproj.GenerateResource.cache
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.StartForm1.resources
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.Form2.resources
+D:\Projects Visual Studio C++\Copy_TestProject1\SLP\x64\Debug\SLP.Form3.resources
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.vcxproj.AssemblyReference.cache
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.Form1.resources
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.Form2.resources
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.Form3.resources
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.StartForm1.resources
+D:\Projects Visual Studio C++\Copy_TestProject1 - Copy\SLP\x64\Debug\SLP.vcxproj.GenerateResource.cache
